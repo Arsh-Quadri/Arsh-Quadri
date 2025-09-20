@@ -30,15 +30,15 @@
   <img width="12" />
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-9294852-7577995.png" height="60" alt="tailwind logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" height="60" alt="Mui logo"  />
+  <img src="https://www.freelogovectors.net/wp-content/uploads/2022/06/mui-logo-freelogovectors.net_.png" height="50" alt="Mui logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" height="60" alt="expo logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" height="60" alt="expo logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" height="60" alt="mongodb logo"  />
+  <img src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_logo_icon_146424.png" height="60" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3628772-3030134.png" height="60" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" height="60" alt="Nodejs logo"  />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" height="60" alt="Nodejs logo"  />
 </div>
 
 ###
